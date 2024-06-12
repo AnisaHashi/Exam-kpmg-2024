@@ -1,0 +1,15 @@
+.bg-animate {
+    animation: bgFade 2s infinite alternate;
+}
+
+@keyframes bgFade {
+    0% {
+        background-color: #007bff;
+        /* Startfarge */
+    }
+
+    100% {
+        background-color: #0056b3;
+        /* Sluttfarge */
+    }
+}

@@ -1,0 +1,154 @@
+{
+  
+  "dailyAgenda": [
+    {
+      "id": "1",
+      "time": "08:00",
+      "activity": "Morning meeting room D45"
+    },
+    {
+      "id": "2",
+      "time": "09:00",
+      "activity": "Morning meeting room D45"
+    },
+    {
+      "id": "3",
+      "time": "10:00",
+      "activity": "Morning meeting room D45"
+    },
+    {
+      "id": "4",
+      "time": "12:00",
+      "activity": "Lunch "
+    },
+    {
+      "id": "5",
+      "time": "13:00",
+      "activity": "Afternoon meeting room D45"
+    },
+    {
+      "id": "6",
+      "time": "13:00",
+      "activity": "Afternoon meeting room D45"
+    },
+    {
+      "id": "7",
+      "time": "13:00",
+      "activity": "Afternoon meeting room D45"
+    },
+    {
+      "id": "8",
+      "time": "14:00",
+      "activity": "Afternoon meeting room D45"
+    },
+    {
+      "id": "9",
+      "time": "16:00",
+      "activity": "Evening meeting room D45"
+    }
+  ],
+  "reminders": [
+    {
+      "id": "1",
+      "date": "13",
+      "title": "Registration for summer party",
+      "list": [
+        "Frist 19.februar: Do something",
+        "Frist 20.februar: Do something"
+      ],
+      "image": "https://via.placeholder.com/400x300"
+    },
+    {
+      "id": "2",
+      "date": "14",
+      "title": "Registration for summer party",
+      "list": ["Frist 19.mars: Do something", "Frist 20.mars: Do something"],
+      "image": "https://via.placeholder.com/400x300"
+    },
+    {
+      "id": "3",
+      "date": "15",
+      "title": "Registration for summer party",
+      "list": ["Frist 19.april: Do something", "Frist 20.april: Do something"],
+      "image": "https://via.placeholder.com/400x300"
+    },
+    {
+        "id": "4",
+        "date": "16",
+        "title": "Registration for summer party",
+        "list": ["Frist 19.april: Do something", "Frist 20.april: Do something"],
+        "image": "https://via.placeholder.com/400x300"
+      },
+      {
+        "id": "5",
+        "date": "17",
+        "title": "Registration for summer party",
+        "list": ["Frist 19.april: Do something", "Frist 20.april: Do something"],
+        "image": "https://via.placeholder.com/400x300"
+      }
+  ],
+  "kantinameny": [
+    {
+      "id": "1",
+      "title": "Lunch",
+      "meny": [
+        "Grillet kylling med ris og grønnsaker",
+        "Fiskekaker med poteter og grønnsaker",
+        "Biff stroganoff med potetmos",
+        "Lasagne med hvitløksbrød"
+      ],
+      "image": "https://via.placeholder.com/400x300"
+    },
+    {
+      "id": "2",
+      "title": "Dinner",
+      "meny": [
+        "Beef Tenderloin with Red Wine Reduction",
+        "Vegansk buddha-bolle med kikerter og grønnsaker",
+        "Stekt torsk med potetmos og grønne bønner"
+      ],
+      "image": "https://via.placeholder.com/400x300"
+    },
+    {
+      "id": "3",
+      "title": "Drikker",
+      "meny": [
+        "Espresso, Americano, Latte, Cappuccino",
+        "Appelsinjuice, Eplejuice, Grapefruktjuice",
+        "Jordbær-banan, Mango-ananas, Grønn smoothie"
+      ],
+      "image": "https://via.placeholder.com/400x300"
+    }
+  ],
+
+"birthday": [
+    {
+    "id": "1",
+    "name": "Alexander",
+    "info" : "Cake and celebration in the canteen at 12:30 today."
+    },
+    {
+        "id": "2",
+        "name": "Jenny",
+        "info" : "Cake and celebration in the canteen at 12:30 today."
+        }
+  ],
+  "photoGallery": [
+    {
+     "id": "1",
+     "image": [
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300",
+        "https://via.placeholder.com/400x300"
+
+     ]
+    }
+  ]
+
+
+}
